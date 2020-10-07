@@ -1,0 +1,7 @@
+Learn from "https://www.youtube.com/watch?v=UF8prUYlA98&list=PLFGoYjJG_fqptiT0rprATVt3BWU_bKW0P&index=2"
+
+1) Create repository in github account online.
+2) Go to the folder you want to add to git repository just created online.
+3) Initialise git in the folder using command : git init.
+	This will create a hidden folder with name statring with ".git"
+4) 
