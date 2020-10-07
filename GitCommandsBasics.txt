@@ -5,3 +5,5 @@ Learn from "https://www.youtube.com/watch?v=UF8prUYlA98&list=PLFGoYjJG_fqptiT0rp
 3) Initialise git in the folder using command : git init.
 	This will create a hidden folder with name statring with ".git"
 4) 
+5) 
+6) 
